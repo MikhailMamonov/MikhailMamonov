@@ -1,6 +1,5 @@
 ### Hi there 👋, Hi, My name is  Mikhail
 #### I am fullstack developer from Yaroslavll 
-![I am fullstack developer from Yaroslavll ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 <!--
 **MikhailMamonov/MikhailMamonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
