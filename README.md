@@ -8,8 +8,8 @@
 ###  I’m currently learning 
  - REACT, REDUX
  -  asp.net core/node js.
- -  JS/TypeScript, C#.
- -  postgresql/ mssql server 
+ -  JS, C#.
+ -  postgresql
 
 ### Skills:
 
