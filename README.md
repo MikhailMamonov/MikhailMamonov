@@ -18,4 +18,4 @@
 * SQL (MSSQL, PostreSQL) 
 
 ### Current Project:
-https://github.com/MikhailMamonov/onlineShop_NodeJs_ReactJs
+https://github.com/MikhailMamonov/online-store-nodeJs-ReactJs
