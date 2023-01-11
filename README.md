@@ -35,10 +35,12 @@ Backend:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 <br />
 ### Current Project:
+- https://github.com/MikhailMamonov/cloud_storage
 
-https://github.com/MikhailMamonov/cloud_storage
-https://github.com/MikhailMamonov/chess-react-typescript
-https://github.com/MikhailMamonov/Paint_online
-https://github.com/MikhailMamonov/mern-blog
-https://github.com/MikhailMamonov/online-store-vue
-https://github.com/MikhailMamonov/online-store-nodeJs-ReactJs
+
+### Latest Projects
+- https://github.com/MikhailMamonov/chess-react-typescript
+- https://github.com/MikhailMamonov/Paint_online
+- https://github.com/MikhailMamonov/mern-blog
+- https://github.com/MikhailMamonov/online-store-vue
+- https://github.com/MikhailMamonov/online-store-nodeJs-ReactJs
