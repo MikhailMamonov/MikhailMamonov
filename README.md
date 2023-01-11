@@ -28,14 +28,10 @@ Frontend:
 <br />
 
 Backend: 
-![NodeJS](https://img.shields.io/badge/node.png?style=for-the-badge&logo=node&logoColor=white)&nbsp;
+![NodeJS](/node.png)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 <br />
-* REACT  / JS / REDUX
-* NodeJS/ Express
-* SQL (MSSQL, PostreSQL), nosql (mongoDB) 
-
 ### Current Project:
 
 https://github.com/MikhailMamonov/cloud_storage
