@@ -2,7 +2,7 @@
 #### I am fullstack developer from Yaroslavll 
 ###  About me
 * earlier I’ve been engaged
-in commercial development on fullstack projects on .net platform. In  particular .net framework 4.5, ext.js, coffeescrypt, also mssql and postgresql dbs.  
+in commercial development on fullstack projects on .net platform. In  particular .net framework 4.5, ext.js, also mssql and postgresql dbs.  
 
 
 Recently I decided to change my main stack. Right now I'm more focused on getting into Javascrypt/Typescrypt.
