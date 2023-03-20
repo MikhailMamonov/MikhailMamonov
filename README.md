@@ -5,7 +5,7 @@
 in commercial development on fullstack projects on .net platform. In  particular .net framework 4.5, ext.js, also mssql and postgresql dbs.  
 
 
-Recently I decided to change my main stack. Right now I'm more focused on getting into Javascrypt/Typescrypt.
+Recently I wanted to master react and frontend development. Right now I'm more focused on getting into Javascrypt/Typescrypt.
 
 *  I try to do more projects using stack React/Redux-toolkit and also Node.js/Express because it so very interesting for me
 *  I’m currently working on Node/express/postgres/mongo and React/Redux-toolkit, also I try to actively apply Typescrypt in my projects.
@@ -28,6 +28,7 @@ Frontend:
 <br />
 
 Backend: 
+<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
