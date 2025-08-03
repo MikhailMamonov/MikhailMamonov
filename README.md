@@ -3,16 +3,16 @@
 ###  About me
 *  earlier I’ve been engaged
 * in commercial development on fullstack projects on .net platform. In  particular .net framework 4.5, asp.net mvc ext.js, also mssql and postgresql dbs.
-* in backend development on .net 8 with MongoDb and ElasticSearch dbs with supporting RabbitMq and Kubernetes integration. There was practice in Behind Driven Design development microservices.
+* in backend development on .net 8 asp.net webapi with MongoDb and ElasticSearch dbs with supporting RabbitMq and Kubernetes integration. There was practice in Behaviour Driven Design development microservices.
 * also I was interested to domesticate react and frontend development. For a while was focused on getting into Javascrypt/Typescrypt.
 
 *  I try more deep and consciously learn .net platform and ecosystem and domesticate development microservices 
 *  I’m currently working on .Net/C#/PostgreSql/MongoDb.
-*  I have simple projects on vue, .net core and etc.
+*  I have simple projects on  .net , vue and etc.
 ###  I’m currently learning 
- - .net/c#, Asp.Net Web Api, gRPC
+ - .net/c#, Asp.Net Web Api, amqp and microservices 
  - MsSQLServer, PostgreSQL, MongoDb, ElasticSearch.
- -  Design Patterns
+ -  Design Patterns, .net ecosystem 
 
 ### Skills:
 
