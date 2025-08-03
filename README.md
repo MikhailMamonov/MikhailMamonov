@@ -1,5 +1,5 @@
 ### Hi there 👋, Hi, My name is  Mikhail
-#### I am .net fullstack developer from Yaroslavll 
+#### I am .net fullstack developer from Yaroslavl
 ###  About me
 *  earlier I’ve been engaged
 * in commercial development on fullstack projects on .net platform. In  particular .net framework 4.5, asp.net mvc ext.js, also mssql and postgresql dbs.
