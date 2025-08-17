@@ -10,14 +10,14 @@
 *  I’m currently working on .Net/C#/PostgreSql/MongoDb.
 *  I have simple projects on  .net , vue and etc.
 ###  I’m currently learning 
- - .net/c#, Asp.Net Web Api, amqp and microservices 
+ - .net/c#, Asp.Net Web Api 
  - MsSQLServer, PostgreSQL, MongoDb, ElasticSearch.
  -  Design Patterns, .net ecosystem 
 
 ### Skills:
 
 Backend: 
-.net/C#, Asp.net Mvc/Web Api, MsSqlServer, Posttgres, MongoDb 
+.net/C#, Asp.net Mvc/Web Api, MsSqlServer, MongoDb, Postgres
 &nbsp;
 <br />
 Frontend: 
