@@ -1,7 +1,6 @@
 ### Hi there 👋, Hi, My name is  Mikhail
 #### I am .net fullstack developer from Yaroslavl
 ###  About me
-*  earlier I’ve been engaged
 * in commercial development on fullstack projects on .net platform. In  particular .net framework 4.5, asp.net mvc ext.js, also mssql and postgresql dbs.
 * in backend development on .net 8 asp.net webapi with MongoDb and ElasticSearch dbs with supporting RabbitMq and Kubernetes integration. There was practice in Behaviour Driven Design development microservices.
 * also I was interested to domesticate react and frontend development. For a while was focused on getting into Javascrypt/Typescrypt.
