@@ -16,7 +16,7 @@
 ### Skills:
 
 Backend: 
-.net/C#, Asp.net Mvc/Web Api, MsSqlServer, MongoDb, Postgres
+.net/C#, Asp.net Mvc/Web Api, Python, Django, MsSqlServer, MongoDb, Postgres
 &nbsp;
 <br />
 Frontend: 
