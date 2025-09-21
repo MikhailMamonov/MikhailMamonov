@@ -3,15 +3,16 @@
 ###  About me
 * in commercial development on fullstack projects on .net platform. In  particular .net framework 4.5, asp.net mvc ext.js, also mssql and postgresql dbs.
 * in backend development on .net 8 asp.net webapi with MongoDb and ElasticSearch dbs with supporting RabbitMq and Kubernetes integration. There was practice in Behaviour Driven Design development microservices.
+* 
 * also I was interested to domesticate react and frontend development. For a while was focused on getting into Javascrypt/Typescrypt.
 
-*  I try more deep and consciously learn .net platform and ecosystem and domesticate development microservices 
+*  I try more deep and consciously learn Python platform and ecosystem and Django framework 
 *  I’m currently working on .Net/C#/PostgreSql/MongoDb.
 *  I have simple projects on  .net , vue and etc.
 ###  I’m currently learning 
- - .net/c#, Asp.Net Web Api 
+ - Python/Django stack
  - MsSQLServer, PostgreSQL, MongoDb, ElasticSearch.
- -  Design Patterns, .net ecosystem 
+ -  Design Patterns, python ecosystem 
 
 ### Skills:
 
@@ -25,8 +26,9 @@ Ext.js, React.js, vue.js
 
 
 ### Latest Projects
+
+- https://github.com/MikhailMamonov/python_average_grades
 - https://github.com/MikhailMamonov/chess-react-typescript
 - https://github.com/MikhailMamonov/Paint_online
 - https://github.com/MikhailMamonov/mern-blog
-- https://github.com/MikhailMamonov/online-store-vue
 - https://github.com/MikhailMamonov/online-store-nodeJs-ReactJs
