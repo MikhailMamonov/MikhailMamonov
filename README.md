@@ -11,7 +11,11 @@
 ### Technology stack:
 
 **Back-end**
-.net/C#, Python,Asp.net Mvc/Web Api, Django
+![Python]([https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))
+![C#]([[https://img.shields.io/badge/-Dot-Net-green?style=flat-square&logo=dot-net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white))
+![DotNet]([https://img.shields.io/badge/-Dot-Net-green?style=flat-square&logo=dot-net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white))
+![Django]([https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white))
+
 &nbsp;
 <br />
 **Front-end**
