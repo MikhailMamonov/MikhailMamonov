@@ -14,7 +14,7 @@
 .net/C#, Python,Asp.net Mvc/Web Api, Django
 &nbsp;
 <br />
-Frontend: 
+**Front-end**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -22,7 +22,10 @@ Frontend:
 <br />
 
 **Databases**
- MsSqlServer, MongoDb, Postgres
+ ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+ ![MSSQLServer](https://img.shields.io/badge/-MsSQLServer-%232c3e50?style=flat-square&logo=vue-dot-js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat-square&logo=MongoDB)
+
 
 
 ### Latest Projects
