@@ -33,9 +33,8 @@
 
 
 ### Latest Projects
-
+- https://github.com/MikhailMamonov/django_movie
 - https://github.com/MikhailMamonov/python_average_grades
 - https://github.com/MikhailMamonov/chess-react-typescript
 - https://github.com/MikhailMamonov/Paint_online
 - https://github.com/MikhailMamonov/mern-blog
-- https://github.com/MikhailMamonov/online-store-nodeJs-ReactJs
