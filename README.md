@@ -33,6 +33,7 @@
 
 
 ### Latest Projects
+- https://github.com/MikhailMamonov/ZakupkiGovRuIntegration
 - https://github.com/MikhailMamonov/django_movie
 - https://github.com/MikhailMamonov/python_average_grades
 - https://github.com/MikhailMamonov/chess-react-typescript
