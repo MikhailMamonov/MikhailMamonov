@@ -1,5 +1,5 @@
 ### Hi there 👋,My name is  Mikhail
-#### I am .net fullstack developer from Yaroslavl
+#### I am fullstack developer from Yaroslavl
 ###  About me
 * in commercial development on fullstack projects on .net platform. In  particular .net framework 4.5, asp.net mvc ext.js, also mssql and postgresql dbs.
 * in backend development on .net 8 asp.net webapi with MongoDb and ElasticSearch dbs with supporting RabbitMq and Kubernetes integration.
@@ -33,9 +33,9 @@
 
 
 ### Latest Projects
-- https://github.com/MikhailMamonov/ZakupkiGovRuIntegration
+- https://github.com/MikhailMamonov/MacroEconomicsData
+- https://github.com/MikhailMamonov/WildberriesParser
 - https://github.com/MikhailMamonov/django_movie
 - https://github.com/MikhailMamonov/python_average_grades
-- https://github.com/MikhailMamonov/chess-react-typescript
 - https://github.com/MikhailMamonov/Paint_online
 - https://github.com/MikhailMamonov/mern-blog
