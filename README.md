@@ -33,9 +33,9 @@
 
 
 ### Latest Projects
+- https://github.com/MikhailMamonov/Smashing-Wallpaper-Downloader
 - https://github.com/MikhailMamonov/MacroEconomicsData
 - https://github.com/MikhailMamonov/WildberriesParser
 - https://github.com/MikhailMamonov/django_movie
-- https://github.com/MikhailMamonov/python_average_grades
 - https://github.com/MikhailMamonov/Paint_online
 - https://github.com/MikhailMamonov/mern-blog
