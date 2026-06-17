@@ -13,6 +13,8 @@
 **Back-end**
 ![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Java](https://shields.io)
+![Spring](https://shields.io)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
@@ -33,7 +35,8 @@
 
 
 ### Latest Projects
-- https://github.com/MikhailMamonov/Smashing-Wallpaper-Downloader
+
+- https://github.com/MikhailMamonov/console-banking/tree/develop
 - https://github.com/MikhailMamonov/MacroEconomicsData
 - https://github.com/MikhailMamonov/WildberriesParser
 - https://github.com/MikhailMamonov/django_movie
