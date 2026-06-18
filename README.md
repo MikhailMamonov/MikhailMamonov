@@ -47,8 +47,8 @@ This project is a key part of my Java/Spring journey. It's a console-based banki
 
 ### 📌 Other Projects
 
-*   [MacroEconomics Data](https://github.com/MikhailMamonov/MacroEconomicsData)
-*   [Wildberries Parser](https://github.com/MikhailMamonov/WildberriesParser)
+*   [A custom implementation of the string.h library in C ](https://github.com/MikhailMamonov/string-plus)
+*   [Simple Bash Utilities (cat & grep)](https://github.com/MikhailMamonov/simple-bash-utils)
 *   [Django Movie](https://github.com/MikhailMamonov/django_movie)
 *   [Paint Online](https://github.com/MikhailMamonov/Paint_online)
 *   [MERN Blog](https://github.com/MikhailMamonov/mern-blog)
