@@ -65,6 +65,5 @@ I am actively open to **Middle Go Developer** or **Backend Developer (with Go tr
 
 - 📧 **Email:** [mamon201071@gmail.com](mailto:mamon201071@gmail.com)
 - 💬 **Telegram:** [@Mikhail_M20](https://t.me/Mikhail_M20)
-- 💼 **HeadHunter:** [My Resume](https://yaroslavl.hh.ru/resume/cdbf91c4ff0f5dd7d20039ed1f364f30596745)
 
 ---
