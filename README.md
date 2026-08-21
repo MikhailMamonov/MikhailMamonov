@@ -59,13 +59,6 @@ Beyond the OMS, I build tools to solve specific architectural and algorithmic ch
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikhailMamonov&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailMamonov&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
----
-
 ## 📫 Let's Connect
 
 I am actively open to **Middle Go Developer** or **Backend Developer (with Go transition)** opportunities.
