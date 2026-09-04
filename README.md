@@ -10,7 +10,7 @@
 
 ### 🛠 Мой технологический стек
 
-- **Языки:** Go, Java (8/11/17), C#, C, SQL
+- **Языки:**  C#, C, SQL, Go, Java (8/11/17),
 - **Фреймворки и экосистемы:** Spring Boot, .NET Core, gRPC, стандартная библиотека Go
 - **Базы данных и очереди:** PostgreSQL, MS SQL, Apache Kafka, RabbitMQ, MongoDB, Elasticsearch
 - **Инфраструктура и DevOps:** Docker, Kubernetes, Git, GitLab CI, Linux, Kibana
