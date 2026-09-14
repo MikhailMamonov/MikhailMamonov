@@ -22,7 +22,7 @@
 
 | Проект | Описание и применимость к .NET | Стек |
 | :--- | :--- | :--- |
-| **[Smart Subscription Registry](https://github.com/MikhailMamonov/smart-subscription-registry)** | Loan Origination System, разработанный с применением принципов Domain-Driven Design (DDD), Clean Architecture и CQRS.Проект демонстрирует практики разработки высоконагруженных и отказоустойчивых банковских систем.| `C#`, `ASP.net`, `PostgreSQL`, `DDD` |
+| **[Loan Origination System](https://github.com/MikhailMamonov/LoanOriginationSystem)** | разработан с применением принципов Domain-Driven Design (DDD), Clean Architecture и CQRS.Проект демонстрирует практики разработки высоконагруженных и отказоустойчивых банковских систем.| `C#`, `ASP.net`, `PostgreSQL`, `DDD` |
 | **[Order Management System](https://github.com/MikhailMamonov/go-order-management-system)** | Эталон микросервисной архитектуры. Реализация распределенных транзакций (Saga), асинхронной обработки событий и идемпотентности. Паттерны напрямую транслируются в .NET-микросервисы (например, с MassTransit/Kafka). | `Go`, `gRPC`, `Kafka`, `PostgreSQL`, `Docker` |
 
 | **[C5 Decimal](https://github.com/MikhailMamonov/C5_decimal)** | Низкоуровневая библиотека арифметики на C. Дает глубокое понимание аллокаций и указателей, что позволяет мне писать высокооптимизированный `zero-allocation` код на C# (используя `Span<T>`, `ArrayPool`, `ref struct`). | `C`, `CMake`, `Unit Testing` |
